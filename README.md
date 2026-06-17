@@ -6,7 +6,7 @@
 
 ## Demo Video
 
-https://github.com/dharavathramdas101/Agentic-financial-document-audit-assistant/raw/main/docs/demo.mp4
+[https://github.com/dharavathramdas101/Agentic-financial-document-audit-assistant/raw/main/docs/demo.mp4](https://github.com/user-attachments/assets/f542fe59-0b12-4125-af87-4a2ee284c18e)
 
 ---
 
