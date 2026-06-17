@@ -6,9 +6,7 @@
 
 ## Demo Video
 
-https://github.com/YOUR_USERNAME/finaudit/assets/demo.mp4
-
-> To embed: push the repo → drag `docs/demo.mp4` into any GitHub Issue text box → copy the generated URL → replace the line above.
+https://github.com/dharavathramdas101/Agentic-financial-document-audit-assistant/raw/main/docs/demo.mp4
 
 ---
 
