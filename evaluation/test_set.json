@@ -1,0 +1,402 @@
+[
+  {
+    "id": "q01",
+    "category": "financial_summary",
+    "question": "What was Apple's total net revenue for fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 40],
+    "gold_answer": "$383,285 million"
+  },
+  {
+    "id": "q02",
+    "category": "financial_summary",
+    "question": "What was Apple's net income for fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 40],
+    "gold_answer": "$96,995 million"
+  },
+  {
+    "id": "q03",
+    "category": "financial_summary",
+    "question": "What was Apple's diluted earnings per share for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$6.13"
+  },
+  {
+    "id": "q04",
+    "category": "financial_summary",
+    "question": "What was Apple's gross margin percentage for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 40],
+    "gold_answer": "44.1%"
+  },
+  {
+    "id": "q05",
+    "category": "financial_summary",
+    "question": "What was Apple's operating income for fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$114,301 million"
+  },
+  {
+    "id": "q06",
+    "category": "financial_summary",
+    "question": "What was Apple's research and development expense for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$29,915 million"
+  },
+  {
+    "id": "q07",
+    "category": "financial_summary",
+    "question": "What was Apple's total cost of sales in fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$214,137 million"
+  },
+  {
+    "id": "q08",
+    "category": "financial_summary",
+    "question": "What was Apple's selling, general and administrative expense in FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$24,932 million"
+  },
+  {
+    "id": "q09",
+    "category": "financial_summary",
+    "question": "What was Apple's total gross margin in dollars for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$169,148 million"
+  },
+  {
+    "id": "q10",
+    "category": "financial_summary",
+    "question": "How did Apple's net revenue in FY2023 compare to FY2022?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 40],
+    "gold_answer": "Revenue decreased from $394,328 million in FY2022 to $383,285 million in FY2023."
+  },
+  {
+    "id": "q11",
+    "category": "segment_revenue",
+    "question": "What was Apple's iPhone revenue for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$200,583 million"
+  },
+  {
+    "id": "q12",
+    "category": "segment_revenue",
+    "question": "What was Apple's Mac revenue for fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$29,357 million"
+  },
+  {
+    "id": "q13",
+    "category": "segment_revenue",
+    "question": "What was Apple's iPad net revenue for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$28,300 million"
+  },
+  {
+    "id": "q14",
+    "category": "segment_revenue",
+    "question": "What was Apple's Wearables, Home and Accessories revenue for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$39,845 million"
+  },
+  {
+    "id": "q15",
+    "category": "segment_revenue",
+    "question": "What was Apple's Services revenue for fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$85,200 million"
+  },
+  {
+    "id": "q16",
+    "category": "segment_revenue",
+    "question": "What percentage of Apple's total revenue came from iPhone in FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 40],
+    "gold_answer": "Approximately 52% of total net revenue"
+  },
+  {
+    "id": "q17",
+    "category": "segment_revenue",
+    "question": "How did Apple's Services revenue grow from FY2022 to FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 40],
+    "gold_answer": "Services revenue grew from $78,129 million in FY2022 to $85,200 million in FY2023."
+  },
+  {
+    "id": "q18",
+    "category": "segment_revenue",
+    "question": "What was Apple's Americas net revenue for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$162,560 million"
+  },
+  {
+    "id": "q19",
+    "category": "segment_revenue",
+    "question": "What was Apple's Greater China net revenue for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$72,559 million"
+  },
+  {
+    "id": "q20",
+    "category": "segment_revenue",
+    "question": "What was Apple's Europe net revenue for fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "$94,294 million"
+  },
+  {
+    "id": "q21",
+    "category": "balance_sheet",
+    "question": "What were Apple's total assets as of September 30, 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41],
+    "gold_answer": "$352,583 million"
+  },
+  {
+    "id": "q22",
+    "category": "balance_sheet",
+    "question": "What was Apple's total cash and cash equivalents as of September 30, 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41],
+    "gold_answer": "$29,965 million"
+  },
+  {
+    "id": "q23",
+    "category": "balance_sheet",
+    "question": "What was Apple's total shareholders equity as of September 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41],
+    "gold_answer": "$62,146 million"
+  },
+  {
+    "id": "q24",
+    "category": "balance_sheet",
+    "question": "What was Apple's total long-term debt as of September 30, 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41],
+    "gold_answer": "$95,281 million"
+  },
+  {
+    "id": "q25",
+    "category": "balance_sheet",
+    "question": "What were Apple's total current liabilities as of end of FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41],
+    "gold_answer": "$145,308 million"
+  },
+  {
+    "id": "q26",
+    "category": "balance_sheet",
+    "question": "What was Apple's total non-current marketable securities on the balance sheet at end of FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41],
+    "gold_answer": "$100,544 million"
+  },
+  {
+    "id": "q27",
+    "category": "balance_sheet",
+    "question": "What were Apple's accounts receivable as of September 30, 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41],
+    "gold_answer": "$29,508 million"
+  },
+  {
+    "id": "q28",
+    "category": "balance_sheet",
+    "question": "What was Apple's accumulated deficit at end of FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41],
+    "gold_answer": "$(214) million (accumulated deficit)"
+  },
+  {
+    "id": "q29",
+    "category": "cash_flow",
+    "question": "What was Apple's net cash generated from operating activities in FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [42],
+    "gold_answer": "$110,543 million"
+  },
+  {
+    "id": "q30",
+    "category": "cash_flow",
+    "question": "What was Apple's capital expenditure (purchases of property plant and equipment) in FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [42],
+    "gold_answer": "$10,959 million"
+  },
+  {
+    "id": "q31",
+    "category": "cash_flow",
+    "question": "What was Apple's approximate free cash flow in FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 42],
+    "gold_answer": "Approximately $99,584 million (operating cash flow of $110,543M minus capex of $10,959M)"
+  },
+  {
+    "id": "q32",
+    "category": "cash_flow",
+    "question": "How much did Apple spend on share repurchases in FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [42],
+    "gold_answer": "$77,550 million"
+  },
+  {
+    "id": "q33",
+    "category": "cash_flow",
+    "question": "What dividends did Apple pay in fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [42],
+    "gold_answer": "$15,025 million"
+  },
+  {
+    "id": "q34",
+    "category": "risk_factors",
+    "question": "What macroeconomic risks does Apple identify in its 10-K?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [7, 8],
+    "gold_answer": "Global economic conditions, inflation, interest rate fluctuations, and currency volatility are cited as key macroeconomic risks."
+  },
+  {
+    "id": "q35",
+    "category": "risk_factors",
+    "question": "What supply chain risks does Apple highlight in its annual report?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [9, 10],
+    "gold_answer": "Apple relies on single-source suppliers for some components; supply disruptions, natural disasters, or geopolitical tensions can impair product availability."
+  },
+  {
+    "id": "q36",
+    "category": "risk_factors",
+    "question": "What competitive risks does Apple face according to the 10-K?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [7],
+    "gold_answer": "Apple faces intense competition in all markets and must continually introduce innovative products; failure to do so could result in price pressure and reduced market share."
+  },
+  {
+    "id": "q37",
+    "category": "risk_factors",
+    "question": "What regulatory and legal risks does Apple identify in its 10-K?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [11, 12],
+    "gold_answer": "Antitrust investigations, data privacy regulation (GDPR and others), intellectual property disputes, and tax law changes are cited as key regulatory risks."
+  },
+  {
+    "id": "q38",
+    "category": "risk_factors",
+    "question": "What cybersecurity and data privacy risks does Apple disclose?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [10, 11],
+    "gold_answer": "Security breaches, unauthorized data access, and evolving privacy laws represent material risks to Apple's reputation and operations."
+  },
+  {
+    "id": "q39",
+    "category": "risk_factors",
+    "question": "What foreign exchange risks does Apple face?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [8],
+    "gold_answer": "A significant portion of Apple's revenue is denominated in foreign currencies; appreciation of the US dollar reduces reported revenue and earnings."
+  },
+  {
+    "id": "q40",
+    "category": "risk_factors",
+    "question": "What intellectual property risks does Apple mention in its risk factors?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [12],
+    "gold_answer": "Apple faces claims of IP infringement and may be required to redesign products or pay damages; protecting its own IP is also costly and uncertain."
+  },
+  {
+    "id": "q41",
+    "category": "auditor",
+    "question": "Who is Apple's external auditor for fiscal year 2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [44],
+    "gold_answer": "Ernst & Young LLP"
+  },
+  {
+    "id": "q42",
+    "category": "auditor",
+    "question": "What type of opinion did Apple's auditor issue for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [44],
+    "gold_answer": "Unqualified (clean) audit opinion on both the financial statements and internal control over financial reporting."
+  },
+  {
+    "id": "q43",
+    "category": "auditor",
+    "question": "What were the key audit matters identified by Apple's auditor in FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [44, 45],
+    "gold_answer": "Revenue recognition for bundled hardware and service arrangements, and uncertain tax positions were identified as key audit matters."
+  },
+  {
+    "id": "q44",
+    "category": "consistency_check",
+    "question": "Does the total net revenue figure in the MD&A match the income statement for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 40],
+    "gold_answer": "Yes, both the MD&A discussion section and the consolidated income statement report total net revenue of $383,285 million for FY2023."
+  },
+  {
+    "id": "q45",
+    "category": "consistency_check",
+    "question": "Does Apple's net income in the income statement match the net income in the cash flow statement for FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40, 42],
+    "gold_answer": "Yes, net income of $96,995 million appears as the starting line on both the income statement and the cash flow from operations reconciliation."
+  },
+  {
+    "id": "q46",
+    "category": "consistency_check",
+    "question": "Is iPhone revenue consistent between the segment revenue table and MD&A discussion?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [25, 40],
+    "gold_answer": "Yes, iPhone revenue of $200,583 million is reported consistently in both the revenue breakdown table and the product discussion in MD&A."
+  },
+  {
+    "id": "q47",
+    "category": "consistency_check",
+    "question": "Do Apple's total assets on the balance sheet agree with disclosures in the notes?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41, 43],
+    "gold_answer": "$352,583 million in total assets is on the balance sheet; segment asset totals in the geographic note should reconcile to this figure."
+  },
+  {
+    "id": "q48",
+    "category": "consistency_check",
+    "question": "Does Apple's diluted share count used in EPS calculation appear consistent across statements?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40, 43],
+    "gold_answer": "Diluted shares of approximately 15,812 million appear in both the EPS footnote and the earnings per share line of the income statement."
+  },
+  {
+    "id": "q49",
+    "category": "consistency_check",
+    "question": "Does total operating expenses match the sum of individual expense line items in FY2023?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [40],
+    "gold_answer": "Total operating expenses of $54,847 million equals R&D ($29,915M) plus SG&A ($24,932M) as reported on the income statement."
+  },
+  {
+    "id": "q50",
+    "category": "consistency_check",
+    "question": "Is the ending cash balance on the cash flow statement consistent with cash on the balance sheet?",
+    "doc_ids": ["aapl-20230930"],
+    "gold_pages": [41, 42],
+    "gold_answer": "Yes, the cash and cash equivalents ending balance of $29,965 million on the cash flow statement matches the balance sheet figure."
+  }
+]

@@ -1,0 +1,38 @@
+# ── Secrets ──────────────────────────────────────────────────────────────────
+.env
+
+# ── Data files (user supplies own PDFs — too large for git) ──────────────────
+data/*.pdf
+
+# ── Generated vector / DB stores (rebuilt on first run) ──────────────────────
+chroma_db/
+*.db
+
+# ── Evaluation outputs ────────────────────────────────────────────────────────
+# Ignore raw metric dumps but KEEP checkpoints (real eval data worth committing)
+evaluation/results/metrics_*.json
+# To commit a checkpoint: git add -f evaluation/results/checkpoint_*.json
+
+# ── Large media (upload via GitHub asset drag-drop instead) ──────────────────
+# docs/demo.mp4
+
+# ── Dev / scratch scripts ─────────────────────────────────────────────────────
+smoke_test.py
+hitl_demo.py
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# ── Tooling ───────────────────────────────────────────────────────────────────
+.DS_Store
+.venv/
+venv/
+*.log
+.streamlit/
+*.egg-info/
+dist/
+build/

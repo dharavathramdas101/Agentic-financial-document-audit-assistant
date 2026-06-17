@@ -1,0 +1,106 @@
+{
+  "q01": {
+    "faithfulness": 0.625,
+    "answer_relevancy": 0.862,
+    "context_precision": 0.559,
+    "top_pages": [],
+    "gold_pages": [
+      25,
+      40
+    ],
+    "cited_pages": []
+  },
+  "q02": {
+    "faithfulness": 0.833,
+    "answer_relevancy": 0.858,
+    "context_precision": 0.686,
+    "top_pages": [],
+    "gold_pages": [
+      25,
+      40
+    ],
+    "cited_pages": []
+  },
+  "q03": {
+    "faithfulness": 0.714,
+    "answer_relevancy": 0.894,
+    "context_precision": 0.817,
+    "top_pages": [],
+    "gold_pages": [
+      40
+    ],
+    "cited_pages": []
+  },
+  "q04": {
+    "faithfulness": 0.833,
+    "answer_relevancy": 0.867,
+    "context_precision": 0.639,
+    "top_pages": [],
+    "gold_pages": [
+      25,
+      40
+    ],
+    "cited_pages": []
+  },
+  "q05": {
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.861,
+    "context_precision": 0.668,
+    "top_pages": [],
+    "gold_pages": [
+      40
+    ],
+    "cited_pages": []
+  },
+  "q06": {
+    "faithfulness": 0.714,
+    "answer_relevancy": 0.823,
+    "context_precision": 1.0,
+    "top_pages": [],
+    "gold_pages": [
+      40
+    ],
+    "cited_pages": []
+  },
+  "q07": {
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.846,
+    "context_precision": 0.887,
+    "top_pages": [],
+    "gold_pages": [
+      40
+    ],
+    "cited_pages": []
+  },
+  "q08": {
+    "faithfulness": 0.833,
+    "answer_relevancy": 0.93,
+    "context_precision": 0.545,
+    "top_pages": [],
+    "gold_pages": [
+      40
+    ],
+    "cited_pages": []
+  },
+  "q09": {
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.904,
+    "context_precision": 0.917,
+    "top_pages": [],
+    "gold_pages": [
+      40
+    ],
+    "cited_pages": []
+  },
+  "q10": {
+    "faithfulness": 0.875,
+    "answer_relevancy": 0.667,
+    "context_precision": 0.125,
+    "top_pages": [],
+    "gold_pages": [
+      25,
+      40
+    ],
+    "cited_pages": []
+  }
+}
